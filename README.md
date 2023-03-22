@@ -19,7 +19,7 @@ Simple implementation using html/css to create a card displaying a qr code image
 
 ### Screenshot
 
-![](./image/screenshot.jpg)
+![](./images/screenshot.jpg)
 
 ### Links
 
